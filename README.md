@@ -39,6 +39,6 @@
 <hr>
 <h2 align="left">🐍 GitHub Contribution</h2>
 
-    ![Snake animation](https://github.com/Alireza-Izadi/Alireza-Izadi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alireza-Izadi/Alireza-Izadi/blob/output/github-contribution-grid-snake.svg)
 
 <hr>
